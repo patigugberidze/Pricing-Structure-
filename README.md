@@ -10,6 +10,7 @@ Example of net price:
     "currency": "USD",
     "amount": "75.00"  // This is the base amount paid to the supplier, excluding extras.
 }
+
 This indicates the amount that the transportation operator charges without any markup. It's the raw price that intermediaries base their final pricing upon.
 #### Gross Price 
 Gross Price in the TC API represents the limitation and describes the constraints around the gross price that the seller should apply. This is optional and appears when there is relevant data to share.
@@ -26,6 +27,7 @@ Example of Gross Price:
     "amount": 15:00,
     "currency": "USD", // This indicates that there are contractual price restraints.
 }
+
 #### Taxes and Fees
 **Taxes and Fees** are additional costs included in the net price that account for governmental taxes or operational fees which are necessary for the transaction. These are usually mandated by law or policy and vary by geographical location and type of service.
 
