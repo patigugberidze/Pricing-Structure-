@@ -6,10 +6,8 @@ This document provides a comprehensive overview of the pricing structure associa
 Net Price is the base cost of a service or product that is paid to the service provider or supplier. This price includes any direct costs associated with the service, such as operational costs, but excludes additional charges like markup, commissions, or other fees that may be added by intermediaries or resellers. It represents the fundamental cost of the primary service offered by the supplier.
 Example of net price:
 
-"net_price": {
-    "currency": "USD",
-    "amount": "75.00"  // This is the base amount paid to the supplier, excluding extras.
-}
+![image](https://github.com/patigugberidze/Pricing-Structure-/assets/167970898/e00f429f-4f35-4ac9-ad45-7bfc2b60e707)
+
 
 This indicates the amount that the transportation operator charges without any markup. It's the raw price that intermediaries base their final pricing upon.
 #### Gross Price 
