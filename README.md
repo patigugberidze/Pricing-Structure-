@@ -5,6 +5,7 @@ This document provides a comprehensive overview of the pricing structure associa
 #### Net Price
 Net Price is the base cost of a service or product that is paid to the service provider or supplier. This price includes any direct costs associated with the service, such as operational costs, but excludes additional charges like markup, commissions, or other fees that may be added by intermediaries or resellers. It represents the fundamental cost of the primary service offered by the supplier.
 Example of net price:
+
 "net_price": {
     "currency": "USD",
     "amount": "75.00"  // This is the base amount paid to the supplier, excluding extras.
@@ -19,6 +20,7 @@ Gross Price in the TC API represents the limitation and describes the constraint
 - **Recommended**: A recommended price serves as a guideline suggesting a price point that might be ideal based on market analysis, competitive pricing, or strategic objectives. It offers flexibility to adjust pricing based on real-time market conditions or competitive responses.
 
 Example of Gross Price:
+
 "gross_price": {
     "price_type": "Max",
     "amount": 15:00,
